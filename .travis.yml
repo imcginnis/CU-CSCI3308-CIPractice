@@ -3,5 +3,4 @@ addons:
   apt:
     packages:
     - check
-install: check
 script: make test
